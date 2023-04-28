@@ -72,6 +72,8 @@ NethersDelight-1.0.1.jar
 
 oceansdelight-fabric-1.0.0.jar
 
+OnFyreSMP-modded_1.19.2_FABRIC_v1.4.0.jar
+
 PineappleDelight-Fabric-1.18-1.0.6.jar
 
 plushie-mod-1.2.jar
